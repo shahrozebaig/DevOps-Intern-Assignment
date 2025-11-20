@@ -1,13 +1,5 @@
 # DevOps Intern Assignment
 
-## Complete Technical Documentation with Commands & Logs
-
-### Candidate: Shahroze Baig
-
-### Role: DevOps Intern
-
----
-
 ## 1. Project Overview
 
 This project demonstrates the complete setup of a cloud-based Linux environment on AWS, automation of system monitoring, integration with AWS CloudWatch, and implementation of proactive alerting using systemd and shell scripting.
